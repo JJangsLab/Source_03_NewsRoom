@@ -1,6 +1,7 @@
 {
   "feeds": [
-    "https://feeds.feedburner.com/zdnetkorea/news"
+    "https://feeds.feedburner.com/zdnetkorea/news",
+    "https://www.bloter.net/rss/allArticle.xml"
   ],
   "briefings": {
     "2026-06-10": "최근 3일 이내에 발행된 신규 기사가 조회되지 않아 분석을 생략합니다."
