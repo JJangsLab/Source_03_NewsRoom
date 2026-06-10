@@ -3,7 +3,8 @@
     "https://www.newsis.com/RSS/sokbo.xml",
     "https://www.newsis.com/RSS/politics.xml",
     "https://www.newsis.com/RSS/economy.xml",
-    "https://www.newsis.com/RSS/industry.xml"
+    "https://www.newsis.com/RSS/industry.xml",
+    "https://www.newsis.com/RSS/society.xml"
   ],
   "briefings": {
     "2026-06-10": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)"
