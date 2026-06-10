@@ -1,5 +1,7 @@
 {
-  "feeds": [],
+  "feeds": [
+    "https://feeds.feedburner.com/zdnetkorea/news"
+  ],
   "briefings": {},
   "visitor_count": 1
 }
