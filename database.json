@@ -9,7 +9,8 @@
     "https://www.korea.kr/rss/policy.xml",
     "https://www.korea.kr/rss/reporter.xml",
     "https://www.korea.kr/rss/column.xml",
-    "https://www.korea.kr/rss/insight.xml"
+    "https://www.korea.kr/rss/insight.xml",
+    "https://www.korea.kr/rss/pressrelease.xml"
   ],
   "briefings": {
     "2026-06-10": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)"
