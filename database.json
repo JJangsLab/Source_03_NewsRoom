@@ -3,7 +3,7 @@
     "https://feeds.feedburner.com/zdnetkorea/news"
   ],
   "briefings": {
-    "2026-06-10": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)"
+    "2026-06-10": "최근 3일 이내에 발행된 신규 기사가 조회되지 않아 분석을 생략합니다."
   },
   "visitor_count": 4
 }
