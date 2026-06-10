@@ -1,7 +1,6 @@
 {
   "feeds": [
     "https://feeds.feedburner.com/zdnetkorea/news",
-    "https://yozm.wishket.com/magazine/feed/",
     "https://techcrunch.com/feed/",
     "https://www.wired.com/feed/rss"
   ],
