@@ -16,7 +16,8 @@
     "https://zdnet.co.kr/rss/rss.xml",
     "https://platum.kr/feed",
     "https://www.bloter.net/feed",
-    "https://www.yna.co.kr/rss/news.xml"
+    "https://www.yna.co.kr/rss/news.xml",
+    "https://www.hankyung.com/feed/all-news"
   ],
   "briefings": {
     "2026-06-10": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)"
