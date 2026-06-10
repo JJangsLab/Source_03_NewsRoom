@@ -1,8 +1,7 @@
 {
   "feeds": [
     "https://feeds.feedburner.com/zdnetkorea/news",
-    "https://techcrunch.com/feed/",
-    "https://www.wired.com/feed/rss"
+    "https://techcrunch.com/feed/"
   ],
   "briefings": {
     "2026-06-10": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)"
