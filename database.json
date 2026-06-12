@@ -26,5 +26,5 @@
     "2026-06-11": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1081)",
     "2026-06-12": "Gemini 인터페이스 연동 과정에서 예상치 못한 오류가 발생했습니다: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
   },
-  "visitor_count": 19
+  "visitor_count": 20
 }
